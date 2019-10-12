@@ -12,6 +12,7 @@ Use this toolkit to build better applications implementing [Clean Architecture f
 ## Install
 
 Using **pip (pip3)**
+
 ```python
 pip install pycleanarch
 ```
@@ -31,13 +32,13 @@ poetry add pycleanarch
 ## Usage
 
 ```python
-# to uuse in your project eg.:
+# to use in your project eg.:
 from pycleanarch.core.domain import Entity
 ```
 
 ## Concepts:
 
-DDD, Clean Architecture, TDD, Hexagonal Architecture, Onion Architecture, and much more. See some links below.
+This project use some concepts like DDD, Clean Architecture, TDD, Hexagonal Architecture, Onion Architecture, and much more. See some links below.
 
 ### Articles
 
